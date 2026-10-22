@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Si usas esta base, por favor cítala así. If you use this dataset, please cite it as below."
+type: dataset
+title: "Base macroeconómica histórica de Colombia, 1905–2022"
+abstract: >-
+  Series históricas de inflación, agregados monetarios, base monetaria,
+  reservas internacionales, PIB, gasto público y sector externo de Colombia,
+  compiladas para los capítulos 2 y 4 del libro "Ensayos de historia
+  económica. Cien años del Banco de la República" (Banco de la República, 2023).
+authors:
+  - family-names: "Castellanos Rodríguez"
+    given-names: "Luis Eduardo"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2026-10-22
+version: "1.0.0"
+license: CC-BY-4.0
+# doi: 10.5281/zenodo.XXXXXXX
+keywords:
+  - Colombia
+  - historia económica
+  - inflación
+  - política monetaria
+  - Banco de la República
+  - economic history
+  - inflation
+references:
+  - type: book
+    title: "Ensayos de historia económica. Cien años del Banco de la República"
+    authors:
+      - name: "Banco de la República"
+    publisher:
+      name: "Banco de la República"
+    year: 2023
+    isbn: "978-958-664-473-0"
+    doi: "10.32468/Ebook.664-473-0"
