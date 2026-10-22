@@ -166,6 +166,8 @@ A Antonio Hernández Gamarra, Carlos Caballero Argáez y María del Pilar Esguer
 ## Contacto
 
 Luis Eduardo Castellanos Rodríguez
+le.castellanos10@uniandes.edu.co
+lecastero@gmail.com
 [@LuisECastR](https://x.com/LuisECastR)
 
 ---
