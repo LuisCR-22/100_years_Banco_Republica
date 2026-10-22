@@ -25,10 +25,10 @@ La recopilación implicó digitalizar series de las _Revistas del Banco de la Re
 ## Archivo
 
 ```
-data/base_cai_libro_100_anos.xlsx
+Data/Base_CAI_Libro_100_años.xlsx
 ```
 
-Un libro de Excel con 29 hojas (27 visibles y 2 ocultas). La mayoría de las celdas contienen valores, no fórmulas.
+Un libro de Excel con 30 hojas (28 visibles y 2 ocultas). La primera, `Portada`, resume el contenido, la elaboración y la forma de citar la base. La mayoría de las celdas contienen valores, no fórmulas.
 
 ## Periodización
 
@@ -147,7 +147,7 @@ Si usas esta base, cita tanto la base como el libro.
 
 **Base de datos**
 
-> Castellanos Rodríguez, L. E. (2026). _Base macroeconómica histórica de Colombia, 1905–2022_ [Conjunto de datos]. Compilada para _Ensayos de historia económica. Cien años del Banco de la República_. https://doi.org/10.5281/zenodo.XXXXXXX
+> Castellanos Rodríguez, L. E. (2026). _Base macroeconómica histórica de Colombia, 1905–2022_ [Conjunto de datos]. Compilada para _Ensayos de historia económica. Cien años del Banco de la República_. https://doi.org/10.5281/zenodo.23567169
 
 **Libro**
 

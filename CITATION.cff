@@ -12,9 +12,10 @@ authors:
     given-names: "Luis Eduardo"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 date-released: 2026-10-22
-version: "1.0.0"
+version: "1.0.1"
 license: CC-BY-4.0
-# doi: https://doi.org/10.5281/zenodo.23567169
+doi: "10.5281/zenodo.23567169"
+url: "https://github.com/LuisCR-22/100_years_Banco_Republica"
 keywords:
   - Colombia
   - historia económica
