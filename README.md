@@ -1,6 +1,6 @@
 # Base macroeconómica histórica de Colombia, 1905–2022
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1429785710.svg)](https://doi.org/10.5281/zenodo.23567169)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.es)
 
 Series históricas de inflación, agregados monetarios, base monetaria, reservas internacionales, PIB, gasto público y sector externo de Colombia, compiladas y armonizadas para el libro **_Ensayos de historia económica. Cien años del Banco de la República_** (Banco de la República, 2023).
