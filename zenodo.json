@@ -1,0 +1,28 @@
+{
+  "title": "Base macroeconómica histórica de Colombia, 1905–2022",
+  "upload_type": "dataset",
+  "description": "<p>Series históricas de inflación (IPC y deflactor del PIB), agregados monetarios (M1, M2, M3), base monetaria y su origen, reservas internacionales, PIB, gasto público, salario mínimo y sector externo de Colombia, 1905–2022.</p><p>Compiladas por Luis Eduardo Castellanos Rodríguez, como asistente de investigación de Antonio Hernández Gamarra, Carlos Caballero Argáez y María del Pilar Esguerra Umaña, para los capítulos 2 («Cien años de regímenes cambiarios en Colombia: 1923–2023») y 4 («Cien años de inflación en Colombia: evolución y control») del libro <em>Ensayos de historia económica. Cien años del Banco de la República</em> (Banco de la República, 2023).</p><p>Historical macroeconomic dataset for Colombia (1905–2022), compiled for the Banco de la República centenary book. Data are in Spanish.</p>",
+  "creators": [
+    {
+      "name": "Castellanos Rodríguez, Luis Eduardo"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "keywords": [
+    "Colombia",
+    "historia económica",
+    "inflación",
+    "política monetaria",
+    "Banco de la República",
+    "economic history",
+    "inflation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.32468/Ebook.664-473-0",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-book"
+    }
+  ]
+}
